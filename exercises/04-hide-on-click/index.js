@@ -1,4 +1,6 @@
 window.myEventListener = function myEventListener()
 {
-	//your code here
+	const primerDiv= document.querySelector("#firstDiv");
+
+	primerDiv.style.display="none";
 }
